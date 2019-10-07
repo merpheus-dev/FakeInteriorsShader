@@ -1,0 +1,9 @@
+
+=== Sun Oct  6 18:54:19 2019
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were updated:
+  com.unity.ide.rider from version 1.0.4 to 1.0.8
+  com.unity.ide.vscode from version 1.0.4 to 1.0.7
